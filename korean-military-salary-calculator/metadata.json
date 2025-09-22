@@ -1,0 +1,5 @@
+{
+  "name": "Korean Military Salary Calculator",
+  "description": "An application to accurately calculate the salary, service period, and discharge date for soldiers in the Republic of Korea Armed Forces based on their enlistment date and branch of service.",
+  "requestFramePermissions": []
+}
